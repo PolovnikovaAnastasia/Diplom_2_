@@ -15,11 +15,11 @@ class User:
 
     data_correct = {
         "email": 'polov1111@yandex.ru',
-        "password": "12345678"}
+        "password": "123456"}
 
     data_negative = {
         "email": 'polovm@yandex.ru',
-        "password": "12345678"}
+        "password": "123456"}
 
     data_double = {
         "email": 'polov1111@yandex.ru',
